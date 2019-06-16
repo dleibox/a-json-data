@@ -1,1 +1,23 @@
-{}
+{
+  "auth": [
+    {
+      "id": 1,
+      "email": "admin@auth.json",
+      "username": "admin",
+      "password": "password",
+      "roles": [
+        "ADMIN",
+        "USER"
+      ]
+    },
+    {
+      "id": 2,
+      "email": "user@auth.json",
+      "username": "user",
+      "password": "password",
+      "roles": [
+        "USER"
+      ]
+    }
+  ]
+}
