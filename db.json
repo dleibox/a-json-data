@@ -2,6 +2,8 @@
   "auth": [
     {
       "id": 1,
+      "first_name": "Admin",
+      "last_name": "User",
       "email": "admin@auth.json",
       "username": "admin",
       "password": "password",
@@ -12,12 +14,27 @@
     },
     {
       "id": 2,
+      "first_name": "A",
+      "last_name": "User",
       "email": "user@auth.json",
       "username": "user",
       "password": "password",
       "roles": [
         "USER"
       ]
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Product A"
+    }
+  ],
+  "todo": [
+    {
+      "id": 1,
+      "title": "Todo item A",
+      "description": "First todo item"
     }
   ]
 }
