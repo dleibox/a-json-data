@@ -1,4 +1,8 @@
 {
+  "app-config": {
+    "production": true,
+    "apiBaseUrl": ""
+  },
   "auth": [
     {
       "id": 1,
