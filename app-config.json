@@ -1,4 +1,5 @@
 {
     "production": true,
-    "ssoBaseUrl": "https://sso.cynthiaworld.com"
+    "ssoBaseUrl": "https://sso.cynthiaworld.com",
+    "pokemonApiUrl": "http://pokeapi2.dlei.ca/api/v2"
 }
